@@ -161,7 +161,6 @@ public class CatalogActivity extends AppCompatActivity implements LoaderManager.
         if(mAdapter==null){return;}
         else {mAdapter.swapCursor(null);}
     }
-    String caca;
 }
 
 
